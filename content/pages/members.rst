@@ -89,6 +89,11 @@ Masters of Science Students
      - |headshot-missing|
      - | **Thomas Habing** [TUD, May 2023-present]
        | *Muscle Vibration Effects in Indoor Cycling*
+   * - |headshot-sorgedrager-simon|
+     - | **Simon Sorgedrager** [TUD, June 2023-present]
+       | *Hands-Free Cycling*
+     -
+     -
 
 .. |headshot-nieman-neville| image:: https://objects-us-east-1.dream.io/mechmotum/headshot-nieman-neville.jpg
    :width: 100px
@@ -103,6 +108,10 @@ Masters of Science Students
    :height: 133px
 
 .. |headshot-soethout-sietse| image:: https://objects-us-east-1.dream.io/mechmotum/headshot-soethout-sietse.jpg
+   :width: 100px
+   :height: 133px
+
+.. |headshot-sorgedrager-simon| image:: https://objects-us-east-1.dream.io/mechmotum/headshot-sorgedrager-simon.jpg
    :width: 100px
    :height: 133px
 
